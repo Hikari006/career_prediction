@@ -31,15 +31,15 @@ o	Helps in understanding the interaction between different variables.
 
 4. Box Plot
 •	Axes:
-o	X-axis: Various scores and aptitudes, including O_score, C_score, E_score, A_score, N_score, Numerical Aptitude, Spatial Aptitude, Perceptual Aptitude, Abstract Reasoning, and Verbal Reasoning.
-o	Y-axis: Score values ranging from approximately 2 to 9.
+- X-axis: Various scores and aptitudes, including O_score, C_score, E_score, A_score, N_score, Numerical Aptitude, Spatial Aptitude, Perceptual Aptitude, Abstract Reasoning, and Verbal Reasoning.
+-	Y-axis: Score values ranging from approximately 2 to 9.
 •	Observations:
-o	O_score (Openness): High median with a range mostly between 6 and 8. Some outliers below 4.
-o	C_score (Conscientiousness): Lower median around 4, with outliers both below and above.
-o	E_score (Extraversion): High median around 8, with a wide range and a few low outliers.
-o	A_score (Agreeableness): Median around 5, moderate spread with few outliers.
-o	N_score (Neuroticism): Median around 6, wide range, with outliers on both ends.
-o	Aptitudes and Reasoning: Numerical Aptitude has a median around 5, with a wide spread. Spatial Aptitude has a wider spread with high outliers. Perceptual and Abstract Aptitude show significant variability with high outliers. Verbal Reasoning has a high median around 7 with a few low outliers.
+-	O_score (Openness): High median with a range mostly between 6 and 8. Some outliers below 4.
+-	C_score (Conscientiousness): Lower median around 4, with outliers both below and above.
+-	E_score (Extraversion): High median around 8, with a wide range and a few low outliers.
+-	A_score (Agreeableness): Median around 5, moderate spread with few outliers.
+-	N_score (Neuroticism): Median around 6, wide range, with outliers on both ends.
+-	Aptitudes and Reasoning: Numerical Aptitude has a median around 5, with a wide spread. Spatial Aptitude has a wider spread with high outliers. Perceptual and Abstract Aptitude show significant variability with high outliers. Verbal Reasoning has a high median around 7 with a few low outliers.
 ![boxplotdistribution](https://github.com/Hikari006/career_prediction/assets/91669143/19eb5ead-0c88-4161-922c-51354c737115)
 
   
