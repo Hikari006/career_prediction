@@ -1,0 +1,49 @@
+
+- - - Group 0 with size 23:
+
+['Accountant' 'Graphic Designer' 'Architect' 'Construction Engineer'
+ 'Environmental Scientist' 'Astronomer' 'Aerospace Engineer'
+ 'Mechanical Designer' 'Game Developer' 'Air Traffic Controller'
+ 'Airline Pilot' 'Urban Planner' 'Forensic Scientist' 'Geologist'
+ 'Mechanical Engineer' 'Industrial Engineer' 'Environmental Engineer'
+ 'Quality Control Inspector' 'Electronics Design Engineer'
+ 'Robotics Engineer' 'Civil Engineer' 'Environmental Scientist'
+ 'Electrical Engineer']
+
+- - - Group 1 with size 46:
+
+['Lawyer' 'Journalist' 'Human Resources Manager' 'Social Worker'
+ 'Police Detective' 'Marketing Copywriter' 'Marketing Coordinator' 'Nurse'
+ 'Teacher' 'Advertising Executive' 'Pediatric Nurse' 'Physical Therapist'
+ 'Dental Hygienist' 'Speech Therapist' 'Social Media Manager'
+ 'Market Research Analyst' 'Elementary School Teacher' 'HR Recruiter'
+ 'Pediatrician' 'Speech Pathologist' 'Diplomat' 'Product Manager'
+ 'Sports Coach' 'Radiologic Technologist' 'Rehabilitation Counselor'
+ 'IT Project Manager' 'Public Relations Specialist' 'Market Researcher'
+ 'Technical Writer' 'Chiropractor' 'Human Rights Lawyer'
+ 'Investment Banker' 'Occupational Therapist' 'Marriage Counselor'
+ 'Genetic Counselor' 'Physician' 'Marketing Manager' 'Event Planner'
+ 'Real Estate Agent' 'Psychologist' 'Salesperson' 'Police Officer'
+ 'Foreign Service Officer' 'Administrative Officer'
+ 'Customs and Border Protection Officer' 'Forestry Technician']
+
+- - - Group 3 with size 13:
+
+['Biomedical Researcher' 'Wildlife Conservationist'
+ 'Forensic Psychologist' 'Marine Biologist' 'Public Health Analyst'
+ 'Biologist' 'Biomedical Engineer' 'Research Scientist'
+ 'Software Developer' 'Zoologist' 'Biotechnologist' 'Web Developer'
+ 'Wildlife Biologist']
+
+- - - Group 4 with size 9:
+
+['Interior Designer' 'Musician' 'Event Photographer' 'Fashion Designer'
+ 'Artist' 'Chef' 'Video Game Tester' 'Fashion Stylist' 'Film Director']
+
+- - - Group 2 with size 14:
+
+['Financial Planner' 'Financial Analyst' 'IT Support Specialist'
+ 'Tax Collector' 'Financial Auditor' 'Data Analyst' 'Pharmacist'
+ 'Database Administrator' 'Insurance Underwriter' 'Financial Advisor'
+ 'Marketing Analyst' 'Software Quality Assurance Tester'
+ 'Database Analyst' 'Tax Accountant']
