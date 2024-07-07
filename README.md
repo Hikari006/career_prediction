@@ -67,24 +67,29 @@ o	For a new data point, calculate the distance to all points in the training set
 o	Assign the career based on the majority class of the nearest neighbors (determined by the chosen 'k').
  
 ![scores](https://github.com/Hikari006/career_prediction/assets/91669143/634a9bb6-0a8e-4f38-a84d-3758f1d3a8a6)
+
 FIG: METRICES (accuracy , f1,recall,precision scores)
 
 
 ![confusion_matrix_testvspred](https://github.com/Hikari006/career_prediction/assets/91669143/fb59f660-8cd9-4f51-9d43-38aa82054ec1)
+
 FIG: CONFUSION MATRIX (truth vs predicted)
 
 
 ![elbow](https://github.com/Hikari006/career_prediction/assets/91669143/de6ca9fb-bc7d-4693-bb4f-e38d19bad202)
+
 FIG: DETERMINATION OF K (ELBOW METHOD)
 
 
 ![career_detection](https://github.com/Hikari006/career_prediction/assets/91669143/6f9908cd-9861-4cf1-932e-5c9d88d40147)
+
 FIG: CAREER PREDICTION 1
 
 Here  as seen the based on the predicted personality trait value the careers are being fetched , So here since the cluster / group value is 1 so the career options that belong to tht cluster 1 are being showcased .. eg: journalist,lawyer , etc …
 
 
 ![career_detection _3PNG](https://github.com/Hikari006/career_prediction/assets/91669143/f965239f-2c1a-49dc-bc03-a9ce9242f925)
+
 FIG: CAREER PREDICTION 2
 
 Here  as seen the based on the predicted personality trait value the careers are being fetched , So here since the cluster / group value is 4 so the career options that belong to tht cluster 4 are being showcased .. eg: Financial Analyst ,Data Analyst , etc…
