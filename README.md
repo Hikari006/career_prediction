@@ -40,6 +40,7 @@ o	Helps in understanding the interaction between different variables.
 -	A_score (Agreeableness): Median around 5, moderate spread with few outliers.
 -	N_score (Neuroticism): Median around 6, wide range, with outliers on both ends.
 -	Aptitudes and Reasoning: Numerical Aptitude has a median around 5, with a wide spread. Spatial Aptitude has a wider spread with high outliers. Perceptual and Abstract Aptitude show significant variability with high outliers. Verbal Reasoning has a high median around 7 with a few low outliers.
+
 ![boxplotdistribution](https://github.com/Hikari006/career_prediction/assets/91669143/19eb5ead-0c88-4161-922c-51354c737115)
 
   
